@@ -24,6 +24,6 @@
     "morgan": "~1.9.1",
     "path": "0.12.7",
     "socket.io": "2.2.0",
-    "underscore": "1.9.1"
+    "underscore": "1.12.1"
   }
 }
